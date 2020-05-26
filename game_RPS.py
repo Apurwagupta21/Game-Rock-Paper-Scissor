@@ -1,4 +1,4 @@
-Game code
+#Game code
 print('Made by Apurwa Gupta')
 lose = 'The computer wins'
 win = ' You win :)'
